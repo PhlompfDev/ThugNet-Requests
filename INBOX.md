@@ -21,6 +21,6 @@ the what's new page does not properly wrap text all the time and results in unre
 ~~Smoke test - please reject me~~ → #001 · rejected
 ~~test~~ → #002 · rejected
 ~~palette update~~ → #003 · shipped v2.2.4
-~~padding changes~~ → #004 · review
+~~padding changes~~ → #004 · shipped v2.2.5
 ~~more UI changes and performance changes~~ → #005 · queued
 ~~feature request update~~ → #006 · queued
