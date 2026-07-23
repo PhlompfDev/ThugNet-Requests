@@ -2,13 +2,13 @@
   "id": 3,
   "title": "palette update",
   "requested_by": null,
-  "status": "review",
+  "status": "shipped",
   "branch": "feature/003-palette-update",
   "started": "2026-07-23T12:38:11Z",
-  "last_update": "The update button's label is now readable when the button is greyed out (it was dark text on a dark button). The fix is done, all tests pass, and the branch was reviewed clean. Ready for the owner to approve.",
+  "last_update": "Shipped as v2.2.4.",
   "changelog": "Makes the Settings update button's label readable while it is greyed out.",
   "attempts": 0,
-  "version": null,
+  "version": "2.2.4",
   "soak_until": null,
   "soak_observations": [],
   "question": null,
@@ -47,6 +47,21 @@
       "t": "2026-07-23T14:52:00Z",
       "s": "review",
       "m": "Re-verified after another restart: fix commit 46efca1 present (already merged to master as b0c7f5b), suite ALL PASSED. Added the changelog field the ship engine now requires."
+    },
+    {
+      "t": "2026-07-23T15:38:09Z",
+      "s": "shipping",
+      "m": "Publishing."
+    },
+    {
+      "t": "2026-07-23T15:38:09Z",
+      "s": "shipping",
+      "m": "Publishing v2.2.4."
+    },
+    {
+      "t": "2026-07-23T15:38:09Z",
+      "s": "shipped",
+      "m": "Shipped as v2.2.4."
     }
   ]
 }
