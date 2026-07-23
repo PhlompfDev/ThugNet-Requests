@@ -13,7 +13,5 @@ Put the title on the `##` line and anything else underneath it:
 An agent picks it up within a few minutes and replaces your block with a
 receipt line below the `---` rule, so you can see what happened to it.
 
-## Smoke test - please reject me
-This entry exists only to prove the loop runs end to end. It is not a real request.
-
 ---
+~~Smoke test - please reject me~~ → #001 · queued

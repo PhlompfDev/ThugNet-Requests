@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "title": "Smoke test - please reject me",
+  "requested_by": null,
+  "status": "queued",
+  "branch": null,
+  "started": "2026-07-23T01:00:00Z",
+  "last_update": "not dispatched: spawnSync claude ENOENT",
+  "attempts": 0,
+  "version": null,
+  "soak_until": null,
+  "soak_observations": [],
+  "question": null,
+  "reason": null,
+  "log": [
+    {
+      "t": "2026-07-23T01:00:00Z",
+      "s": "queued"
+    },
+    {
+      "t": "2026-07-23T01:00:00Z",
+      "s": "queued",
+      "m": "not dispatched: spawnSync claude ENOENT"
+    }
+  ]
+}
