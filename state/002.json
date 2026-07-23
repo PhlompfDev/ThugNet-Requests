@@ -1,0 +1,25 @@
+{
+  "id": 2,
+  "title": "test",
+  "requested_by": null,
+  "status": "rejected",
+  "branch": null,
+  "started": "2026-07-23T03:08:09Z",
+  "last_update": null,
+  "attempts": 0,
+  "version": null,
+  "soak_until": null,
+  "soak_observations": [],
+  "question": null,
+  "reason": "This entry is a test submission, not a feature request — feel free to resubmit with an actual request.",
+  "log": [
+    {
+      "t": "2026-07-23T03:08:09Z",
+      "s": "queued"
+    },
+    {
+      "t": "2026-07-23T03:08:09Z",
+      "s": "rejected"
+    }
+  ]
+}
