@@ -14,4 +14,4 @@ An agent picks it up within a few minutes and replaces your block with a
 receipt line below the `---` rule, so you can see what happened to it.
 
 ---
-~~Smoke test - please reject me~~ → #001 · queued
+~~Smoke test - please reject me~~ → #001 · rejected
