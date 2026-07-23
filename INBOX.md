@@ -21,6 +21,10 @@ Add a gap between the check now and the feature request button. Do the same for 
 In what's new, have it cache the downloaded changelog rather than refetch it every time. Only refetch if there is a version mismatch. Add vertical padding for the buttons in feature request. The back button touches the bottom of send request button.
 -- node-1 (from the panel)
 
+## feature request update
+allow copy and paste to work in requested changes textbox. Increase the character limit if feasible.
+-- node-1 (from the panel)
+
 ---
 ~~Smoke test - please reject me~~ → #001 · rejected
 ~~test~~ → #002 · rejected
