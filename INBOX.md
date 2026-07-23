@@ -13,6 +13,10 @@ Put the title on the `##` line and anything else underneath it:
 An agent picks it up within a few minutes and replaces your block with a
 receipt line below the `---` rule, so you can see what happened to it.
 
+## padding changes
+Add a gap between the check now and the feature request button. Do the same for the role checkboxes. Add padding between the top row in the settings page that holds updates, node and roles from the top where it says settings. The blue accent on the top left connects with the highlighted updates.
+-- node-1 (from the panel)
+
 ---
 ~~Smoke test - please reject me~~ → #001 · rejected
 ~~test~~ → #002 · rejected
