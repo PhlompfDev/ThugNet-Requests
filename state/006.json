@@ -2,7 +2,7 @@
   "id": 6,
   "title": "feature request update",
   "requested_by": null,
-  "status": "failed",
+  "status": "queued",
   "branch": "feature/006-feature-request-update",
   "started": "2026-07-23T15:28:09Z",
   "last_update": "worker ran and exited non-zero (code 1)",
