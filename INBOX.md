@@ -20,4 +20,4 @@ receipt line below the `---` rule, so you can see what happened to it.
 ~~padding changes~~ → #004 · shipped v2.2.5
 ~~more UI changes and performance changes~~ → #005 · shipped v2.2.6
 ~~feature request update~~ → #006 · failed
-~~fix text wrapping in changelog~~ → #007 · queued
+~~fix text wrapping in changelog~~ → #007 · failed
