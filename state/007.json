@@ -2,11 +2,11 @@
   "id": 7,
   "title": "fix text wrapping in changelog",
   "requested_by": null,
-  "status": "queued",
-  "branch": null,
+  "status": "failed",
+  "branch": "feature/007-fix-text-wrapping-in-changelog",
   "started": "2026-07-23T15:58:09Z",
-  "last_update": null,
-  "attempts": 0,
+  "last_update": "worker ran and exited non-zero (code 1)",
+  "attempts": 1,
   "version": null,
   "changelog": null,
   "question": null,
@@ -15,6 +15,16 @@
     {
       "t": "2026-07-23T15:58:09Z",
       "s": "queued"
+    },
+    {
+      "t": "2026-07-23T16:08:09Z",
+      "s": "in_progress",
+      "m": "Worker started."
+    },
+    {
+      "t": "2026-07-23T16:08:09Z",
+      "s": "failed",
+      "m": "worker ran and exited non-zero (code 1)"
     }
   ]
 }
