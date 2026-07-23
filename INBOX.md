@@ -16,7 +16,7 @@ receipt line below the `---` rule, so you can see what happened to it.
 ---
 ~~Smoke test - please reject me~~ → #001 · rejected
 ~~test~~ → #002 · rejected
-~~palette update~~ → #003 · review
+~~palette update~~ → #003 · shipped v2.2.4
 ~~padding changes~~ → #004 · review
 ~~more UI changes and performance changes~~ → #005 · queued
 ~~feature request update~~ → #006 · queued
