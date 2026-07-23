@@ -2,10 +2,11 @@
   "id": 3,
   "title": "palette update",
   "requested_by": null,
-  "status": "queued",
+  "status": "review",
   "branch": "feature/003-palette-update",
   "started": "2026-07-23T12:38:11Z",
-  "last_update": "The greyed-out update button's label (\"Not checked yet\", \"Up to date\", ...) was dark grey on a dark background and unreadable on a monitor. It now uses the theme's light-grey dim text, which is easy to read. A test measures the actual on-screen colours and fails if the label ever becomes hard to read again (verified: it does fail with the old colours). All tests pass and the whole-branch review found no problems. Ready for deploy.",
+  "last_update": "The update button's label is now readable when the button is greyed out (it was dark text on a dark button). The fix is done, all tests pass, and the branch was reviewed clean. Ready for the owner to approve.",
+  "changelog": "Makes the Settings update button's label readable while it is greyed out.",
   "attempts": 0,
   "version": null,
   "soak_until": null,
@@ -36,6 +37,16 @@
       "t": "2026-07-23T13:20:00Z",
       "s": "review",
       "m": "Re-verified after restart: suite green, contrast test proven to discriminate by mutation check, whole-branch review clean (cross-task / fresh-node / lifecycle). Branch left for owner."
+    },
+    {
+      "t": "2026-07-23T14:48:09Z",
+      "s": "in_progress",
+      "m": "Worker started."
+    },
+    {
+      "t": "2026-07-23T14:52:00Z",
+      "s": "review",
+      "m": "Re-verified after another restart: fix commit 46efca1 present (already merged to master as b0c7f5b), suite ALL PASSED. Added the changelog field the ship engine now requires."
     }
   ]
 }
