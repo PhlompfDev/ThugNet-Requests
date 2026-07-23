@@ -1,0 +1,30 @@
+{
+  "id": 4,
+  "title": "padding changes",
+  "requested_by": null,
+  "status": "review",
+  "branch": "feature/004-padding-changes",
+  "started": "2026-07-23T15:28:09Z",
+  "last_update": "Done and waiting for the owner's approval. The Settings page now has breathing room in all three places you asked for: a blank row between the SETTINGS header and the tab strip (so the blue accent no longer touches the highlighted Updates tab), a blank row between the Check Now row and the Feature Request button, and a blank row between each role checkbox. While reviewing, we also raised the page's minimum screen height so a too-short monitor shows the honest 'screen too small' message instead of silently cutting off the bottom checkboxes. All tests pass.",
+  "attempts": 0,
+  "version": null,
+  "changelog": "Adds spacing on the Settings page between the header and tabs, around the Feature Request button, and between the role checkboxes.",
+  "question": null,
+  "reason": null,
+  "log": [
+    {
+      "t": "2026-07-23T15:28:09Z",
+      "s": "queued"
+    },
+    {
+      "t": "2026-07-23T15:28:09Z",
+      "s": "in_progress",
+      "m": "Worker started."
+    },
+    {
+      "t": "2026-07-23T16:05:00Z",
+      "s": "review",
+      "m": "Padding added in all three spots; suite green; whole-branch review done (one fix: honest min_h)."
+    }
+  ]
+}
