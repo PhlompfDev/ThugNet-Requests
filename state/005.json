@@ -2,12 +2,12 @@
   "id": 5,
   "title": "more UI changes and performance changes",
   "requested_by": null,
-  "status": "review",
+  "status": "shipped",
   "branch": "feature/005-more-ui-changes-and-performance-changes",
   "started": "2026-07-23T15:28:09Z",
-  "last_update": "Both changes are built and the full test suite passes: the What's New changelog is now kept after the first download and only re-downloaded when a new version exists, and the Feature Request page's buttons have a blank row between rows so Back no longer touches Send Request. Now double-checking the whole branch before handing it over.",
+  "last_update": "Shipped as v2.2.6.",
   "attempts": 0,
-  "version": null,
+  "version": "2.2.6",
   "changelog": null,
   "question": null,
   "reason": null,
@@ -25,6 +25,21 @@
       "t": "2026-07-23T16:20:00Z",
       "s": "review",
       "m": "Implemented and green; whole-branch review underway."
+    },
+    {
+      "t": "2026-07-23T15:58:09Z",
+      "s": "shipping",
+      "m": "Publishing."
+    },
+    {
+      "t": "2026-07-23T15:58:09Z",
+      "s": "shipping",
+      "m": "Publishing v2.2.6."
+    },
+    {
+      "t": "2026-07-23T15:58:09Z",
+      "s": "shipped",
+      "m": "Shipped as v2.2.6."
     }
   ]
 }
